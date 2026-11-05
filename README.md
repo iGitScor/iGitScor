@@ -6,7 +6,7 @@ What I'm building on the side:
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://podcast.iscor.me"><img src="assets/myna.svg" alt="Myna logo" height="48" /></a>
+<a href="https://podcast.iscor.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/myna-dark.svg"><img src="assets/myna.svg" alt="Myna logo" height="48" /></picture></a>
 
 <a href="https://podcast.iscor.me"><img src="assets/myna-demo.gif" alt="Myna turning a script into a podcast episode" width="400" /></a>
 

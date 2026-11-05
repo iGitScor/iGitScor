@@ -27,4 +27,4 @@ What I'm building on the side:
 
 Older stuff people still use: [cypress-recorder](https://github.com/iGitScor/cypress-recorder), [webpack-content-replacer-plugin](https://github.com/iGitScor/webpack-content-replacer-plugin).
 
-[iscor.me](https://iscor.me) · [CV](https://cv.iscor.me) · [@iTweetScor](https://twitter.com/iTweetScor)
+[iscor.me](https://iscor.me) · [CV](https://cv.iscor.me)
